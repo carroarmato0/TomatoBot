@@ -16,3 +16,13 @@ go get github.com/carroarmato0/tomatobot
 Create a config.ini file where the binary is.
 
 `TOKEN=<insert you bot token here>`
+
+## Running
+
+`./Tomatobot`
+
+## Features
+
+* Tells time
+* Ping - Pong
+* Greets people in English or Dutch

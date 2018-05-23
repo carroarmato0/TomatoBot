@@ -7,4 +7,12 @@ A Discord Bot written in GO
 
 
 ## Installation
-go get github.com/carroarmato0/Tomatobot
+
+go get github.com/carroarmato0/tomatobot
+
+
+## Configuration
+
+Create a config.ini file where the binary is.
+
+`TOKEN=<insert you bot token here>`

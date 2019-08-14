@@ -15,7 +15,7 @@ go get github.com/carroarmato0/tomatobot
 
 Create a config.ini file where the binary is.
 
-`TOKEN=<insert you bot token here>`
+`TOKEN=<insert your bot token here>`
 
 ## Running
 
